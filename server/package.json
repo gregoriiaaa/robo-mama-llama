@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "applicaton server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gregoriiaaa/robo-mama-llama.git"
+  },
+  "keywords": [
+    "robot"
+  ],
+  "author": "Gregoria Millensifer & Christian Castaneda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gregoriiaaa/robo-mama-llama/issues"
+  },
+  "homepage": "https://github.com/gregoriiaaa/robo-mama-llama#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
